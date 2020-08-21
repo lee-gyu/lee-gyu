@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm a software engineer who has been coding web, windows and server!
 
+If you wanna know me, please check [this 💬](https://gyucheol.github.io/portfolio)!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

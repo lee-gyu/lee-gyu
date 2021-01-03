@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm a software engineer who has been coding full-stack!
 
+Now I'm studying knowledge about DevOps.  
 If you wanna know about my resume, please refer to [this 💬](https://gyucheol.github.io/portfolio)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol)](https://github.com/anuraghazra/github-readme-stats)

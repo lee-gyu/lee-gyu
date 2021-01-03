@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a software engineer who has been coding web, windows and server!
+### I'm a software engineer who has been coding full-stack!
 
 If you wanna know about my resume, please refer to [this 💬](https://gyucheol.github.io/portfolio)!
 

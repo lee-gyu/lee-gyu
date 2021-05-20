@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm a software engineer who has been coding all-of-things!
 
-Now I'm studying knowledge about DevOps.  
-If you wanna know about my resume, please refer to [this 💬](https://gyucheol.github.io/portfolio)!
+Currently I'm a senior enginneer at an IT company.  
+If you wanna know about my resume, please see [this 💬](https://gyucheol.github.io/portfolio)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol)](https://github.com/anuraghazra/github-readme-stats)
 

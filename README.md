@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a software engineer who has been coding full-stack!
+### I'm a software engineer who has been coding all-of-things!
 
 Now I'm studying knowledge about DevOps.  
 If you wanna know about my resume, please refer to [this 💬](https://gyucheol.github.io/portfolio)!

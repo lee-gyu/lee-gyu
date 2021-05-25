@@ -2,7 +2,7 @@
 ### I'm a software engineer who has been coding all-of-things!
 
 Currently I'm a senior enginneer at an IT company.  
-If you wanna know about my resume, please see [this 💬](https://gyucheol.github.io/portfolio)!
+If you wanna know about my resume, please see [this 💬](https://gyucheol.github.io/portfolio)!  
 *Note: It's written by korean.* 😿
 
 :hearts: Things

@@ -4,10 +4,10 @@
 Currently I'm a senior enginneer at an IT company.  
 If you wanna know about my resume, please see [this 💬](https://gyucheol.github.io/portfolio)!
 
-:hearts:
+:hearts: Things
 - Reading books
 - Patting my cat
-- Coding something interesting.
+- Coding something interesting
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol)](https://github.com/anuraghazra/github-readme-stats)
 

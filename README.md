@@ -6,7 +6,7 @@ If you wanna know about my resume, please see [this 💬](https://gyucheol.githu
 *Note: It's written by korean.* 😿
 
 :hearts: Things
-- Reading books
+- Reading books (especially, into humanities)
 - Patting my cat
 - Coding something interesting
 

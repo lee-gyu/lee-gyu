@@ -9,6 +9,7 @@ If you wanna know about my resume, please see [this 💬](https://gyucheol.githu
 - Reading books (especially, into humanities)
 - Patting my cat
 - Coding something interesting
+- Taking pictures of my cat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol)](https://github.com/anuraghazra/github-readme-stats)
 

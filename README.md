@@ -1,15 +1,14 @@
 ### Hi there 👋
-### I'm a software engineer who has been coding all-of-things!
+### A Korean Software Engineer
 
-Currently I'm a senior enginneer at an IT company.  
+I'm a senior enginneer at an IT company.  
 If you wanna know about my resume, please see [this 💬](https://gyucheol.github.io/portfolio)!  
 *Note: It's written in korean.* 😿
 
 :hearts: Things
 - Reading books (especially, into humanities)
-- Patting my cat
 - Coding something interesting
-- Taking pictures of my cat
+- 📸 🐈‍⬛ 🫠
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol&theme=dark)](https://gyucheol.github.io/portfolio)
 

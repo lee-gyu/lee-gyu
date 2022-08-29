@@ -10,7 +10,7 @@ If you wanna know about my resume, please see [this 💬!](https://gyucheol.gith
 - Coding something
 - Patting cats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol&theme=dark)](https://gyucheol.github.io/portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-gyu&theme=dark)](https://gyucheol.github.io/portfolio)
 
 <!--
 **GyuCheol/GyuCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

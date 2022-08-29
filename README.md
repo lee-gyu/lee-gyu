@@ -1,14 +1,14 @@
 ### Hi there 👋
-### A Korean Software Engineer
+### Software Engineer
 
-I'm a senior enginneer at an IT company.  
-If you wanna know about my resume, please see [this 💬](https://gyucheol.github.io/portfolio)!  
+I'm a senior enginneer at an IT company.</br>
+If you wanna know about my resume, please see [this 💬!](https://gyucheol.github.io/portfolio)</br>
 *Note: It's written in korean.* 😿
 
 :hearts: Things
 - Reading books (especially, into humanities)
-- Coding something interesting
-- 📸 🐈‍⬛ 🫠
+- Coding something
+- Patting cats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuCheol&theme=dark)](https://gyucheol.github.io/portfolio)
 

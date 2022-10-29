@@ -2,7 +2,10 @@
 
 - UI/UX Engineer
   - Design for UI Architecture (Modal Handler, Global Key Stroker)
-  - `Grid` `Flowchart`
+  - UI Component Library (`Grid` `Flowchart`)
+  - Documentation (`storybook` `docusaurus`)
+
 - Frontend Architect
-  - `react` `typescript` `electron` `sass`
-  - `vite` `vitest` `tailwindcss` `framer-motion`
+  - `react` `typescript` `electron` `next.js`
+  - `jotai` `framer-motion` `swr`
+  - `vite` `vitest` `tailwindcss` `post-css` `sass`

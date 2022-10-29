@@ -1,5 +1,6 @@
 ### A UI/UX Engineer
 
+- A code repository for my portfolio
 
 <!--
 **GyuCheol/GyuCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

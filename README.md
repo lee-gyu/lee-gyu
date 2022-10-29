@@ -1,9 +1,8 @@
 ## A code repository for my portfolio
 
 - UI/UX Engineer
-  - Design for UI Architecture (Modal Handler, Global Key Stroker)
+  - Design for UI System (Modal Controller, Global Key Controller)
   - UI Component Library (`Grid` `Flowchart`)
-  - Documentation (`storybook` `docusaurus`)
 
 - Frontend Architect
   - lang: `typescript`
@@ -13,3 +12,4 @@
   - desktop env: `electron`
   - bundler: `vite`
   - testing: `vitest`
+  - docs: `storybook` `docusaurus`

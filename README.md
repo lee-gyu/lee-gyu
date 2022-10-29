@@ -1,6 +1,9 @@
-### An UI/UX Engineer
+## A code repository for my portfolio
 
-- A code repository for my portfolio
+- UI/UX Engineer
+- Frontend Architect
+  - `react` `typescript` `electron` `sass`
+  - `vite` `vitest` `tailwindcss` `framer-motion`
 
 <!--
 **GyuCheol/GyuCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

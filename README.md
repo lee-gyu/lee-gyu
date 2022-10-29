@@ -6,6 +6,10 @@
   - Documentation (`storybook` `docusaurus`)
 
 - Frontend Architect
-  - `react` `typescript` `electron` `next.js`
-  - `jotai` `framer-motion` `swr`
-  - `vite` `vitest` `tailwindcss` `post-css` `sass`
+  - lang: `typescript`
+  - ui framework: `react` `next.js`
+  - react-library: `jotai` `framer-motion` `swr`
+  - style: `tailwindcss` `post-css` `sass`
+  - desktop env: `electron`
+  - bundler: `vite`
+  - testing: `vitest`

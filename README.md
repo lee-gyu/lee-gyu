@@ -1,4 +1,4 @@
-### A UI/UX Engineer
+### An UI/UX Engineer
 
 - A code repository for my portfolio
 

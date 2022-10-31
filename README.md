@@ -1,5 +1,3 @@
-## A code repository for my portfolio
-
 - UI/UX Engineer
   - Design for UI System (Modal Controller, Global Key Controller)
   - UI Component Library (`Grid` `Flowchart`)

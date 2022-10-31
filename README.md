@@ -1,8 +1,8 @@
-### UI/UX Engineer
+### As an UI/UX Engineer
 - Design for UI System (Modal Controller, Global Key Controller)
 - UI Component Library (`Grid` `Flowchart`)
 
-### Frontend Architect
+### As a Frontend Architect
 - lang: `typescript`
 - ui framework: `react` `next.js`
 - react-library: `jotai` `framer-motion` `swr`

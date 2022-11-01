@@ -7,7 +7,7 @@
 - ui framework: `react` `next.js`
 - react-library: `jotai` `framer-motion` `swr`
 - style: `tailwindcss` `post-css` `sass`
-- desktop env: `electron`
+- cross-platform: `electron`
 - bundler: `vite`
 - testing: `vitest`
 - docs: `storybook` `docusaurus`

@@ -10,5 +10,5 @@
 - style: `tailwindcss` `post-css` `sass`
 - cross-platform: `electron`
 - bundler: `vite`
-- testing: `vitest`
+- testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`

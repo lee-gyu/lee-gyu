@@ -10,6 +10,10 @@
 - react-lib: `jotai` `framer-motion` `swr`
 - style: `tailwindcss` `post-css` `sass`
 - cross-platform: `electron`
-- tool: `vite` `webpack` `next.js`
+- tool: `vite` `webpack` `next.js` `turbo` `lerna`
 - testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`
+
+## As a Developer
+- backend: `nest.js` `typeorm`
+- CI/CD: `docker` `docker-compose` `gitlab`

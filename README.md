@@ -5,10 +5,10 @@
 
 ### As a Frontend Enginner
 - lang: `typescript`
-- ui framework: `react` `next.js`
-- react-library: `jotai` `framer-motion` `swr`
+- ui framework: `react`
+- react-lib: `jotai` `framer-motion` `swr`
 - style: `tailwindcss` `post-css` `sass`
 - cross-platform: `electron`
-- bundler: `vite`
+- tool: `vite` `webpack` `next.js`
 - testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`

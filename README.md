@@ -16,4 +16,4 @@
 
 ### etc.
 - backend: `nest.js` `typeorm`
-- CI/CD: `docker` `docker-compose` `gitlab`
+- CI/CD: `docker` `docker-compose` `gitlab` `jenkins`

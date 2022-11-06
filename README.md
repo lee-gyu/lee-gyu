@@ -14,6 +14,6 @@
 - testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`
 
-### As a Developer
+### etc.
 - backend: `nest.js` `typeorm`
 - CI/CD: `docker` `docker-compose` `gitlab`

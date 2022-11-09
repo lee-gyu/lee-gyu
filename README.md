@@ -1,5 +1,3 @@
-<a href="https://lee-gyu.github.io/" target="_blank">:page_facing_up: My personal docs</a>
-
 ### As an UI/UX Engineer
 - Design for UI System: `Modal`, `Key Stroke`, `Layout`, `CSS Utility Class`, etc.
 - UI Component Library: `Grid`, `Flowchart`, `Select`, `DatePicker`, etc.
@@ -19,3 +17,4 @@
 ### etc.
 - backend: `nest.js` `typeorm`
 - CI/CD: `docker` `docker-compose` `gitlab` `jenkins`
+- <a href="https://lee-gyu.github.io/" target="_blank">:page_facing_up: My personal docs</a>

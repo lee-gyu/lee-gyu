@@ -14,8 +14,11 @@
 - testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`
 
-### etc.
+### Etc.
 - backend: `nest.js` `typeorm`
 - CI/CD: `docker` `docker-compose` `gitlab` `jenkins`
-- <a href="https://lee-gyu.github.io/" target="_blank">:page_facing_up: My personal docs</a>
+
+### Link
+- [:book: My personal docs](https://lee-gyu.github.io/)
 - ~~Dev. Portfolio~~ (:construction: currently under construction...)
+- [:abc: OPIC.io (A toy project a few years ago)]()

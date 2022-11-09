@@ -18,3 +18,4 @@
 - backend: `nest.js` `typeorm`
 - CI/CD: `docker` `docker-compose` `gitlab` `jenkins`
 - <a href="https://lee-gyu.github.io/" target="_blank">:page_facing_up: My personal docs</a>
+- ~~Dev. Portfolio~~ (currently being build...)

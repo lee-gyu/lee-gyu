@@ -1,4 +1,4 @@
-<a href="https://lee-gyu.github.io/" target="lee-gyu-github">:page_facing_up: My personal docs</a>
+<a href="https://lee-gyu.github.io/" target="_blank">:page_facing_up: My personal docs</a>
 
 ### As an UI/UX Engineer
 - Design for UI System: `Modal`, `Key Stroke`, `Layout`, `CSS Utility Class`, etc.

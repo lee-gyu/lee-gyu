@@ -21,4 +21,4 @@
 ### Link
 - [:book: My personal docs](https://lee-gyu.github.io/)
 - ~~Dev. Portfolio~~ (:construction: currently under construction...)
-- [:abc: OPIC.io (A toy project a few years ago)]()
+- [:abc: OPIC.io (A toy project a few years ago)](https://lee-gyu.github.io/opic.io/)

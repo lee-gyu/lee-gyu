@@ -19,6 +19,6 @@
 - CI/CD: `docker` `docker-compose` `gitlab` `jenkins`
 
 ### Link
-- [:book: My personal docs](https://lee-gyu.github.io/)
-- ~~Devfolio~~ (:construction: currently under construction...)
+- [:books: My personal docs](https://lee-gyu.github.io/)
+- ~~:blue_book:Devfolio~~ (:construction: currently under construction...)
 - [:abc: OPIC.io (My first toy project a few years ago)](https://lee-gyu.github.io/opic.io/)

@@ -21,4 +21,3 @@
 ### Link
 - [:books: My personal docs](https://lee-gyu.github.io/)
 - ~~:blue_book: Devfolio~~ (:construction: currently under construction...)
-- [:abc: OPIC.io (My first toy project a few years ago)](https://lee-gyu.github.io/opic.io/)

@@ -17,7 +17,7 @@
 
 ### Etc.
 - backend: `nest.js` `typeorm`
-- CI/CD: `docker` `docker-compose` `gitlab` `jenkins`
+- CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link
 - [:books: My personal docs](https://lee-gyu.github.io/)

@@ -22,4 +22,4 @@
 ### Link
 - [:books: My personal docs](https://lee-gyu.github.io/)
 - ~~:blue_book: Devfolio~~ (:construction: currently under construction...)
-- [:closed_book: Storybook](https://lee-gyu.github.io/storybook/)
+- [:closed_book: Storybook for my ui-lib](https://lee-gyu.github.io/storybook/)

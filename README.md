@@ -14,9 +14,10 @@
 - tool: `vite` `webpack` `next.js` `turbo` `lerna`
 - testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`
+- web components: `lit-element`
 
 ### Etc.
-- backend: `nest.js` `typeorm`
+- backend: `nest.js` `typeorm` `web-dav` `cal-dav` `card-dav`
 - CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link

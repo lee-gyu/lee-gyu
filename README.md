@@ -11,13 +11,13 @@
 - dom lib: `popper.js` `fastdom` `d3.js`
 - style: `tailwindcss` `post-css` `sass`
 - cross-platform: `electron`
-- tool: `vite` `webpack` `next.js` `turbo` `lerna`
+- tool: `vite` `webpack` `next.js` `turbo` `lerna` `pnpm`
 - testing: `vitest` `cypress` `playwright`
 - docs: `storybook` `docusaurus`
 - web components: `lit-element`
 
 ### Etc.
-- backend: `nest.js` `typeorm` `web-dav` `cal-dav` `card-dav`
+- backend: `nest.js` `typeorm` `web-dav`
 - CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link

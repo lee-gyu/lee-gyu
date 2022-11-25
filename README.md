@@ -7,7 +7,7 @@
 ### As a Frontend Enginner
 - lang: `typescript`
 - ui framework: `react`
-- react-lib: `jotai` `immer` `framer-motion` `swr` `headless-ui`
+- react-lib: `jotai` `immer` `framer-motion` `swr` `headless-ui` `floating-ui`
 - dom lib: `popper.js` `fastdom` `d3.js`
 - style: `tailwindcss` `post-css` `sass`
 - cross-platform: `electron`

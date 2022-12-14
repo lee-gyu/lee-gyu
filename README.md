@@ -7,9 +7,9 @@
 ### As a Frontend Enginner
 - lang: `typescript`
 - ui framework: `react`
-- react-lib: `jotai` `immer` `framer-motion` `swr` `headless-ui`
-- dom lib: `floating-ui` `fastdom` `d3.js`
-- style: `tailwindcss` `post-css` `sass`
+- react-lib: `jotai` `immer` `framer-motion` `swr` `headless-ui` `floating-ui`
+- dom lib: `fastdom` `d3.js`
+- style: `tailwindcss` `post-css` `sass` `vanila-extract`
 - cross-platform: `electron`
 - tool: `vite` `webpack` `next.js` `turbo` `lerna` `pnpm`
 - testing: `vitest` `cypress`

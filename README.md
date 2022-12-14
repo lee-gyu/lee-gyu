@@ -12,7 +12,7 @@
 - style: `tailwindcss` `post-css` `sass`
 - cross-platform: `electron`
 - tool: `vite` `webpack` `next.js` `turbo` `lerna` `pnpm`
-- testing: `vitest` `cypress` `playwright`
+- testing: `vitest` `cypress`
 - docs: `storybook` `docusaurus`
 
 ### Etc.

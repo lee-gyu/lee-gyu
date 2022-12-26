@@ -11,7 +11,9 @@
 - dom lib: `fastdom` `d3.js`
 - style: `tailwindcss` `post-css` `sass` `vanila-extract`
 - cross-platform: `electron`
-- tool: `vite` `webpack` `next.js` `turbo` `lerna` `pnpm`
+- bundler: `vite` `webpack`
+- build-tool: `turbo` `lerna` `pnpm`
+- ssr: `next.js`
 - testing: `vitest` `cypress`
 - docs: `storybook` `docusaurus`
 

@@ -1,24 +1,23 @@
 ### As an UI/UX Engineer
-- Design for UI System: `Colors`, `Spacing`, `Layout`, `UI Depth`, `Form`, `CSS Utility Class` etc.
+- Organizing Design System: `Colors`, `Spacing`, `Layout`, `UI Depth`, `CSS Utility Class` etc.
 - UI Component Library: `Grid`, `Flowchart`, `Select`, `DatePicker`, `Editor` etc.
-- Providing `Types Definition(.d.ts)` for team developers
+- Providing `Types Definition` for app developers
 - Researching better UI/UX cases.
 
 ### As a Frontend Enginner
-- lang: `typescript`
-- ui framework: `react`
-- react-lib: `jotai` `immer` `framer-motion` `swr` `headless-ui` `floating-ui`
-- dom lib: `fastdom` `d3.js`
-- style: `tailwindcss` `post-css` `sass` `vanila-extract`
-- cross-platform: `electron`
-- bundler: `vite` `webpack`
-- build-tool: `turbo` `lerna` `pnpm`
-- ssr: `next.js`
-- testing: `vitest` `cypress`
-- docs: `storybook` `docusaurus`
+- Building better F/E project: `lerna` `pnpm` `vite` `turbo` `webpack`
+- Lang: `typescript`
+- Reactive programming: `react` `rxjs`
+- States management: `jotai` `immer` `swr`
+- About react: `framer-motion` `headless-ui` `floating-ui/react` `next.js`
+- DOM lib: `fastdom` `d3.js` `floating-ui/dom`
+- Styling: `tailwindcss` `post-css` `sass`
+- Cross-platform: `electron`
+- Testing: `vitest` `cypress`
+- Docs: `storybook` `docusaurus`
 
 ### Etc.
-- backend: `nest.js` `typeorm` `web-dav`
+- Backend things: `nest.js` `typeorm` `web-dav`
 - CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link

@@ -9,7 +9,7 @@
 - Lang: `typescript`
 - Reactive programming: `react` `rxjs`
 - States management: `jotai` `immer` `swr`
-- About react: `framer-motion` `headless-ui` `floating-ui/react` `next.js`
+- React lib: `framer-motion` `headless-ui` `floating-ui/react` `next.js`
 - DOM lib: `fastdom` `d3.js` `floating-ui/dom`
 - Styling: `tailwindcss` `post-css` `sass`
 - Cross-platform: `electron`

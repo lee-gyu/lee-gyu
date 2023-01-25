@@ -1,7 +1,7 @@
 ### As an UI/UX Engineer
 - Organizing Design System: `Colors`, `Spacing`, `Layout`, `UI Depth`, `CSS Utility Class` etc.
 - UI Component Library: `Grid`, `Flowchart`, `Select`, `DatePicker`, `Editor` etc.
-- Providing `Types Definition` for app developers
+- Providing `Types Definition` for F/E developers
 - Researching better UI/UX cases.
 
 ### As a Frontend Enginner

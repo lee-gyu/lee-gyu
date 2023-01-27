@@ -1,10 +1,10 @@
-### As an UI/UX Engineer
+### As UI/UX Engineer
 - Organizing Design System: `Colors`, `Spacing`, `Layout`, `UI Depth`, `CSS Utility Class` etc.
 - UI Component Library: `Grid`, `Flowchart`, `Select`, `DatePicker`, `Editor` etc.
 - Providing `Types Definition` for F/E developers
 - Researching better UI/UX cases.
 
-### As a Frontend Enginner
+### As Frontend Enginner
 - Build: `lerna` `pnpm` `vite` `turbo` `webpack`
 - Lang: `typescript`
 - Reactive: `react` `rxjs`
@@ -17,7 +17,7 @@
 - Docs: `storybook` `docusaurus`
 
 ### Etc.
-- Backend things: `nest.js` `typeorm` `web-dav`
+- Backend: `nest.js` `typeorm` `web-dav`
 - CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link

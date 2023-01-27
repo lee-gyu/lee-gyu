@@ -5,12 +5,12 @@
 - Researching better UI/UX cases.
 
 ### As a Frontend Enginner
-- Building better F/E project: `lerna` `pnpm` `vite` `turbo` `webpack`
+- Build: `lerna` `pnpm` `vite` `turbo` `webpack`
 - Lang: `typescript`
-- Reactive programming: `react` `rxjs`
-- States management: `jotai` `immer` `swr`
-- React things: `framer-motion` `headless-ui` `floating-ui/react` `next.js`
-- DOM lib: `fastdom` `d3.js` `floating-ui/dom`
+- Reactive: `react` `rxjs`
+- State: `jotai` `immer` `swr`
+- React: `framer-motion` `headless-ui` `floating-ui/react` `next.js`
+- DOM: `fastdom` `d3.js` `floating-ui/dom`
 - Styling: `tailwindcss` `post-css` `sass`
 - Cross-platform: `electron`
 - Testing: `vitest` `cypress`

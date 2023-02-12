@@ -5,11 +5,10 @@
 - Researching better UI/UX cases.
 
 ### As Frontend Enginner
-- Build: `lerna` `pnpm` `vite` `turbo` `webpack`
+- Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
 - Lang: `typescript`
-- Reactive: `react` `rxjs` `jotai` `immer` `swr`
-- React: `framer-motion` `headless-ui`
-- DOM: `d3` `floating-ui`
+- React: `react` `framer-motion` `headless-ui` `jotai` `immer` `swr`
+- Lib: `d3` `floating-ui` `rxjs`
 - Styling: `tailwindcss` `post-css` `sass`
 - Cross-platform: `electron`
 - Testing: `vitest` `cypress`

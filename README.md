@@ -21,5 +21,5 @@
 
 ### Link
 - [:books: My personal docs](https://lee-gyu.github.io/)
-- ~~:blue_book: Devfolio~~ (:construction: currently under construction...)
+- [:blue_book: Devfolio](https://leegyu-portfolio.vercel.app/)
 - [:closed_book: Storybook for my ui-lib](https://lee-gyu.github.io/storybook/)

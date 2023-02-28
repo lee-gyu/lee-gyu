@@ -8,7 +8,7 @@
 - Web Frontend Skills
   - Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
   - Lang: `typescript`
-  - React: `react` `framer-motion` `headless-ui` `jotai` `immer` `swr`
+  - React: `react` `next.js` `framer-motion` `headless-ui` `jotai` `immer` `swr`
   - Lib: `d3` `floating-ui`
   - Styling: `tailwindcss` `post-css` `sass`
   - Cross-platform: `electron`
@@ -17,7 +17,6 @@
 
 - etc.
   - Backend: `nest.js` `typeorm` `web-dav`
-  - SSR: `next.js`
   - CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link

@@ -1,4 +1,4 @@
-### Software Engineer
+### Lee Gyu Cheol, A Software Engineer
 
 - as a UI/UX Engineer
   - Organizing Design System: `Tokens`,`Layout`, `Layers`, etc.

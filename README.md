@@ -1,12 +1,12 @@
 ### Lee Gyu Cheol, A Software Engineer
 
-- as a UI/UX Engineer
+- UI/UX Skills
   - Organizing Design System: `Tokens`,`Layout`, `Layers`, etc.
   - UI Component Library: `Grid`, `Flowchart`, etc.
   - Providing `Types Definition` for F/E developers
   - Researching better UI/UX cases.
 
-- as a Frontend Enginner
+- Web Frontend Skills
   - Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
   - Lang: `typescript`
   - React: `react` `framer-motion` `headless-ui` `jotai` `immer` `swr`

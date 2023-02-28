@@ -2,15 +2,14 @@
 
 - UI/UX Skills
   - Organizing Design System: `Tokens`,`Layout`, `Layers`, etc.
-  - UI Component Library: `Grid`, `Flowchart`, etc.
-  - Providing `Types Definition` for F/E developers
+  - UI Component Library: `Grid`, `Flowchart`, `CodeMirror` etc.
   - Researching better UI/UX cases.
 
 - Web Frontend Skills
   - Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
   - Lang: `typescript`
   - React: `react` `framer-motion` `headless-ui` `jotai` `immer` `swr`
-  - Lib: `d3` `floating-ui` `rxjs`
+  - Lib: `d3` `floating-ui`
   - Styling: `tailwindcss` `post-css` `sass`
   - Cross-platform: `electron`
   - Testing: `vitest` `cypress`

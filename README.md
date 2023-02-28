@@ -1,23 +1,25 @@
-### As UI/UX Engineer
-- Organizing Design System: `Tokens`,`Layout`, `Layers`, etc.
-- UI Component Library: `Grid`, `Flowchart`, etc.
-- Providing `Types Definition` for F/E developers
-- Researching better UI/UX cases.
+### Software Engineer
 
-### As Frontend Enginner
-- Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
-- Lang: `typescript`
-- React: `react` `framer-motion` `headless-ui` `jotai` `immer` `swr`
-- Lib: `d3` `floating-ui` `rxjs`
-- Styling: `tailwindcss` `post-css` `sass`
-- Cross-platform: `electron`
-- Testing: `vitest` `cypress`
-- Docs: `storybook` `docusaurus`
+- as a UI/UX Engineer
+  - Organizing Design System: `Tokens`,`Layout`, `Layers`, etc.
+  - UI Component Library: `Grid`, `Flowchart`, etc.
+  - Providing `Types Definition` for F/E developers
+  - Researching better UI/UX cases.
 
-### Etc.
-- Backend: `nest.js` `typeorm` `web-dav`
-- SSR: `next.js`
-- CI/CD: `docker` `gitlab` `jenkins`
+- as a Frontend Enginner
+  - Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
+  - Lang: `typescript`
+  - React: `react` `framer-motion` `headless-ui` `jotai` `immer` `swr`
+  - Lib: `d3` `floating-ui` `rxjs`
+  - Styling: `tailwindcss` `post-css` `sass`
+  - Cross-platform: `electron`
+  - Testing: `vitest` `cypress`
+  - Docs: `storybook` `docusaurus`
+
+- etc.
+  - Backend: `nest.js` `typeorm` `web-dav`
+  - SSR: `next.js`
+  - CI/CD: `docker` `gitlab` `jenkins`
 
 ### Link
 - [:books: My personal docs](https://lee-gyu.github.io/)

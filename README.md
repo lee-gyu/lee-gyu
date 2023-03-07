@@ -11,7 +11,7 @@
   - React: `react` `next.js` `framer-motion` `headless-ui` `jotai` `immer` `swr`
   - Lib: `d3` `floating-ui`
   - Styling: `tailwindcss` `post-css` `sass`
-  - Cross-platform: `electron`
+  - X-platform: `electron`
   - Testing: `vitest` `cypress`
   - Docs: `storybook` `docusaurus`
 

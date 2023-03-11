@@ -8,16 +8,16 @@
 - Web Frontend Skills
   - Workspace: `lerna` `pnpm` `vite` `turbo` `webpack`
   - Lang: `typescript`
-  - React: `react` `next.js` `framer-motion` `headless-ui` `jotai` `immer` `swr`
+  - React: `react` `next.js` `framer-motion` `headless-ui` `jotai` `swr`
   - Lib: `d3` `floating-ui`
-  - Styling: `tailwindcss` `post-css` `sass`
-  - X-platform: `electron`
+  - Styling: `tailwindcss` `sass`
   - Testing: `vitest` `cypress`
   - Docs: `storybook` `docusaurus`
 
 - etc.
   - Backend: `nest.js` `typeorm` `web-dav`
   - CI/CD: `docker` `gitlab` `jenkins`
+  - Cross platform: `electron`
 
 ### Link
 - [:books: My personal docs](https://lee-gyu.github.io/)

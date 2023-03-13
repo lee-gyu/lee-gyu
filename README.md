@@ -24,4 +24,3 @@
 - [:blue_book: Devfolio](https://leegyu-portfolio.vercel.app/)
 - [:closed_book: Storybook](https://lee-gyu.github.io/storybook/)
 - [:test_tube: Testing react](https://github.com/lee-gyu/testing-react)
-- <a href="https://discordapp.com/channels/@me/360060934158286849/"><img src="https://dcbadge.vercel.app/api/shield/360060934158286849?theme=gray&compact=true"/></a>

@@ -1,8 +1,8 @@
 ### Lee Gyu Cheol, A Software Engineer
 
 - UI/UX Skills
-  - Organizing Design System: `Tokens`,`Layout`, `Layers`, etc.
-  - UI Component Library: `Grid`, `Flowchart`, `CodeMirror` etc.
+  - Implmenting Design System: `Tokens`,`Layout`, `Layers`, etc.
+  - UI Component Library: `Grid`, `Flowchart`, `CodeMirror-based Editor` etc.
   - Researching better UI/UX cases.
 
 - Web Frontend Skills

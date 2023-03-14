@@ -23,5 +23,5 @@
 - [:books: Devlog](https://lee-gyu.github.io/)
 - [:blue_book: Devfolio](https://leegyu-portfolio.vercel.app/)
 - [:closed_book: Storybook](https://lee-gyu.github.io/storybook/)
-- [:test_tube: Testing react](https://github.com/lee-gyu/testing-react)
+- [:test_tube: Testing](https://github.com/lee-gyu/testing-react)
 

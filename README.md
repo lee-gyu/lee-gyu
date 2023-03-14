@@ -25,4 +25,3 @@
 - [:closed_book: Storybook](https://lee-gyu.github.io/storybook/)
 - [:test_tube: Testing react](https://github.com/lee-gyu/testing-react)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/360060934158286849)](https://discord.com/users/360060934158286849)

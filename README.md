@@ -22,7 +22,7 @@
 
 ### Link
 - [:books: Devlog](https://lee-gyu.github.io/)
-- [:blue_book: Devfolio](https://leegyu-portfolio.vercel.app/)
+- [:bookmark_tabs: Resume](https://leegyu-portfolio.vercel.app/)
 - [:closed_book: Storybook](https://lee-gyu.github.io/storybook/)
 - [:test_tube: Testing](https://github.com/lee-gyu/testing-react)
 

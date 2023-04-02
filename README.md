@@ -3,8 +3,8 @@
 - Researching better UI/UX.
 - Desining software modules and interfaces.
 - Improving developer experiences.
-- Likes: `typescript` `react` `node.js` `vite` `docker` `system trouble shooting`
-- Interests: `rust` `functional programming` `S/W architecture` `security` `deno` `generative AI`
+- Likes: `Typescript` `React` `Node.js` `Vite` `Docker` `System Engineering`
+- Interests: `Rust` `F/P` `S/W Architecture` `Security` `Deno` `Generative AI`
 
 ### Link
 - [:books: Devlog](https://lee-gyu.github.io/)

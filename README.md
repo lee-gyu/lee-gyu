@@ -7,8 +7,5 @@
 - Interests: `Rust` `F/P` `S/W Architecture` `Security` `Deno` `Generative AI`
 
 ### Link
-- [:books: Devlog](https://lee-gyu.github.io/)
-- [:bookmark_tabs: Resume](https://leegyu-portfolio.vercel.app/)
-- [:closed_book: Storybook](https://lee-gyu.github.io/storybook/)
-- [:test_tube: Testing](https://github.com/lee-gyu/testing-react)
 
+- [:bookmark_tabs: Resume](https://leegyu-portfolio.vercel.app/)

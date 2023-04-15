@@ -2,8 +2,10 @@
 
 - Researching better UI/UX.
 - Providing better developer experiences.
-- Likes: `Typescript` `React` `Node.js` `Vite` `Docker` `System Engineering`
-- Interests: `Rust` `F/P` `S/W Architecture` `Security` `Deno` `Generative AI`
+- Main: `web` `typescript` `react`
+- Sub: `system engineering` `web module architect`
+- Likes: `pnpm` `vite` `node.js`
+- Interests: `rust` `f/p` `s/w architecture` `security` `deno` `generative ai`
 
 ### Link
 

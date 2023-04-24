@@ -2,9 +2,9 @@
 
 - Researching better UI/UX cases and developer experiences.
 - Main: `web` `typescript` `react`
-- Sub: `system engineering` `web module designing`
-- Likes: `pnpm` `vite` `node.js`
-- Interests: `rust` `f/p` `s/w architecture` `security` `deno` `generative ai`
+- Sub: `system engineering` `web module`
+- Likes: `pnpm` `vite` `node.js` `tailwindcss`
+- Studying: `ssr/ssg` `unocss` `s/w architecture` `rust` `f/p` `security` `deno` `generative ai`
 
 ### Link
 

@@ -4,7 +4,7 @@
 - Main: `web` `typescript` `react`
 - Sub: `system engineering` `web module`
 - Likes: `pnpm` `vite` `node.js` `tailwindcss`
-- Studying: `ssr/ssg` `unocss` `s/w architecture` `rust` `f/p` `security` `deno` `generative ai`
+- Studying: `ssr/ssg` `next.js` `unocss` `s/w architecture` `rust` `f/p` `security` `deno` `generative ai`
 
 ### Link
 

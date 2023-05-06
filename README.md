@@ -1,6 +1,6 @@
 ### Lee Gyu Cheol, A Software Engineer
 
-- Making the world better developer experience.
+- Making the world's developer experience better.
 - Main: `web` `typescript` `react`
 
 ### Link

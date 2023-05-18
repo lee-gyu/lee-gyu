@@ -1,11 +1,7 @@
-### Lee Gyu Cheol, A Software Engineer
+### Lee Gyu Cheol, A Software Engineer [:bookmark_tabs:](https://leegyu-portfolio.vercel.app/)
 
 - Making the world a better developer experience.
 - Main: `web` `typescript` `react`
-
-### Link
-
-- [:bookmark_tabs: Resume](https://leegyu-portfolio.vercel.app/)
 
 <!--
 - Sub: `system engineering` `web module`

@@ -1,6 +1,6 @@
 `web` `typescript` `react` `node.js`
 
-- currently, working on my new portfolio site. :page_with_curl:
+- currently, working my new portfolio site. :page_with_curl:
 
 <!--
 - Sub: `system engineering` `web module`

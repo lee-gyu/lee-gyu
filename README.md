@@ -1,4 +1,4 @@
-`web` `typescript` `react` `node.js`
+`web` ``typescript` `react` `node.js`
 
 <!--
 - Sub: `system engineering` `web module`

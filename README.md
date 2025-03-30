@@ -4,3 +4,4 @@
 - `react` `svelte`
 - `vite`
 - `vitest` `playwright`
+- `java` `typescript`

@@ -1,4 +1,3 @@
-- `java` `node.js`
 - `react` `solid-js`
 - `next.js` `nest.js` `astro`
 
